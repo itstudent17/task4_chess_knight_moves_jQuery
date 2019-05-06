@@ -1,0 +1,23 @@
+.border, .w, .b {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  position: relative;
+  float:left;
+  text-align: center;
+}
+
+.border {
+  text-align: center;
+}
+
+.w {
+  color: white;
+}
+
+.b {
+  background-color: black;
+  color: black;
+}
+
+
